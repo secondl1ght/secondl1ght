@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @secondl1ght
 - 👀 I’m interested in bitcoin!
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently studying front-end development
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: @secondl1ght#9164 on discord or by e-mail at secondl1ght@protonmail.com
 
