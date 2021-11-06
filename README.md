@@ -9,7 +9,6 @@
   - https://www.polywork.com/secondl1ght
   - https://dev.to/secondl1ght
   - https://contra.com/secondl1ght
-
 - Portfolio: https://secondl1ght.site
 
 <!---
