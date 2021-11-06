@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @secondl1ght
 - 👀 I’m interested in bitcoin, privacy and individual freedom!
-- 🌱 I’m currently studying front-end development
+- 🌱 I’m currently studying front-end development and contributing to open source
 - 💞️ I’m looking to collaborate on building the future
-- 📫 How to reach me: @secondl1ght#9164 on discord or by e-mail at secondl1ght@protonmail.com
+- 📫 How to reach me: 
+  - @secondl1ght#9164 on discord
+  - by e-mail at secondl1ght@protonmail.com
+  - twitter @secondl1ght
+  - https://www.polywork.com/secondl1ght
+  - https://dev.to/secondl1ght
+  - https://contra.com/secondl1ght
 
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
