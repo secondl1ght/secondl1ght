@@ -6,10 +6,10 @@
   - @secondl1ght#9164 on discord
   - by e-mail at secondl1ght@protonmail.com
   - twitter @secondl1ght
-  - https://www.polywork.com/secondl1ght
-  - https://dev.to/secondl1ght
-  - https://contra.com/secondl1ght
-- Portfolio: https://secondl1ght.site
+  - [polywork](https://www.polywork.com/secondl1ght)
+  - [dev.to](https://dev.to/secondl1ght)
+  - [contra](https://contra.com/secondl1ght)
+- ✨ Portfolio: https://secondl1ght.site
 
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
