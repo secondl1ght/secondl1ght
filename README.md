@@ -10,6 +10,7 @@
   - [dev.to](https://dev.to/secondl1ght)
   - [contra](https://contra.com/secondl1ght)
 - ✨ Portfolio: [secondl1ght.site](https://secondl1ght.site)
+- ⚡ [tippin me](https://tippin.me/@secondl1ght)
 
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
