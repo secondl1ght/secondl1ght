@@ -15,7 +15,8 @@
   - 🔗 `bc1q8kzsrzeejyj8egdx3k6fuk2llk2rq36gfjhw36`
   - [coinos](https://coinos.io/secondl1ght)
   - paynym [+restlesstruth25f](https://paynym.is/+restlesstruth25f)
-  - 🙌🏼 Thank you!  
+  - 🙌🏼 Thank you!
+  - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
 
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
