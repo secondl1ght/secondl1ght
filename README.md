@@ -13,6 +13,7 @@
 - 🙌🏼 Support:
   - ⚡ [tippin me](https://tippin.me/@secondl1ght)
   - 🔗 bc1q8kzsrzeejyj8egdx3k6fuk2llk2rq36gfjhw36
+  -   Thank you!  
 
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
