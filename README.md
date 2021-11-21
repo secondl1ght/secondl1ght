@@ -14,7 +14,7 @@
   - ⚡ [tippin me](https://tippin.me/@secondl1ght) or ln-address: `secondl1ght@getalby.com`
   - 🔗 `bc1q8kzsrzeejyj8egdx3k6fuk2llk2rq36gfjhw36`
   - [coinos](https://coinos.io/secondl1ght)
-  - PayNym [+restlesstruth25f](https://paynym.is/+restlesstruth25f)
+  - paynym [+restlesstruth25f](https://paynym.is/+restlesstruth25f)
   - 🙌🏼 Thank you!  
 
 <!---
