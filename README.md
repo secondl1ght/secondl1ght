@@ -15,7 +15,7 @@
   - 🔗 `bc1q8kzsrzeejyj8egdx3k6fuk2llk2rq36gfjhw36`
   - [coinos](https://coinos.io/secondl1ght) (lightning, on-chain + liquid)
   - paynym [+restlesstruth25f](https://paynym.is/+restlesstruth25f)
-  - 🙌🏼 Thank you!
+  - Thank you! 🙌🏼
   - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
 
 <!---
