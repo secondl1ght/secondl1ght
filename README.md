@@ -11,7 +11,7 @@
   - [contra](https://contra.com/secondl1ght)
 - ✨ Portfolio: [secondl1ght.site](https://secondl1ght.site)
 - Support:
-  - ⚡ [tippin me](https://tippin.me/@secondl1ght) or ln-address `secondl1ght@getalby.com`
+  - ⚡ [tippin me](https://tippin.me/@secondl1ght) / ln-address `secondl1ght@getalby.com`
   - 🔗 `bc1q8kzsrzeejyj8egdx3k6fuk2llk2rq36gfjhw36`
   - [coinos](https://coinos.io/secondl1ght) (lightning, on-chain + liquid)
   - paynym [+restlesstruth25f](https://paynym.is/+restlesstruth25f)
