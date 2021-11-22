@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
   - @secondl1ght#9164 on [discord](https://discord.com/login)
+  - @secondl1ght on [telegram](https://t.me/secondl1ght)
   - by e-mail at secondl1ght@protonmail.com
   - twitter [@secondl1ght](https://twitter.com/secondl1ght)
   - [polywork](https://www.polywork.com/secondl1ght)
