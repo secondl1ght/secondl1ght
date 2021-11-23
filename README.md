@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m @secondl1ght
 - 👀 I’m interested in bitcoin, privacy and individual freedom!
-- 🌱 I’m a Junior Web Developer at [Bleskomat](https://bleskomat.com) ₿⚡🏧 and also contributing to [Alby](https://getalby.com) 🐝
+- 🌱 I’m a Junior Web Developer at [Bleskomat](https://bleskomat.com) ₿⚡🏧 & [coinos](https://coinos.io) and also contributing to [Alby](https://getalby.com) 🐝
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
   - @secondl1ght#9164 on [discord](https://discord.com/login)
