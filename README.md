@@ -3,6 +3,7 @@
 - 🌱 I’m a Junior Web Developer at [Bleskomat](https://bleskomat.com) ₿⚡🏧 & [coinos](https://coinos.io) and also contributing to [Alby](https://getalby.com) 🐝
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
+  - [@secondl1ght:matrix.org](https://matrix.to/#/@secondl1ght:matrix.org)
   - @secondl1ght#9164 on [discord](https://discord.com/login)
   - @secondl1ght on [telegram](https://t.me/secondl1ght)
   - by e-mail at secondl1ght@protonmail.com
