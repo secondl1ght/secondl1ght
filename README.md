@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m @secondl1ght
 - 👀 I’m interested in bitcoin, privacy and individual freedom!
-- 🌱 I’m a Junior Web Developer at [Bleskomat](https://bleskomat.com) ₿⚡🏧 & [Token Ocean](https://tokenocean.io) 🌊 (previously [coinos](https://coinos.io)) and also contributing to [Alby](https://getalby.com) 🐝
+- 🌱 I’m a Junior Web Developer at [Token Ocean](https://tokenocean.io) 🌊 (previously [coinos](https://coinos.io)) and also contributing to [Alby](https://getalby.com) 🐝
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
   - [@secondl1ght:matrix.org](https://matrix.to/#/@secondl1ght:matrix.org)
