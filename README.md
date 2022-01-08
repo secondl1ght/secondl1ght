@@ -8,6 +8,7 @@
   - @secondl1ght on [telegram](https://t.me/secondl1ght)
   - by e-mail at secondl1ght@protonmail.com
   - twitter [@secondl1ght](https://twitter.com/secondl1ght)
+  - mastodon <a rel="me" href="https://bitcoinhackers.org/@secondl1ght">@secondl1ght</a>
   - [polywork](https://www.polywork.com/secondl1ght)
   - [dev.to](https://dev.to/secondl1ght)
   - [contra](https://contra.com/secondl1ght)
