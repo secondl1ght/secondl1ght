@@ -19,6 +19,7 @@
   - [coinos](https://coinos.io/secondl1ght) (🔗/⚡/🌊)
   - paynym [`+restlesstruth25f`](https://paynym.is/+restlesstruth25f)
   - Thank you! 🙌🏼
+  - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secondl1ght&count_private=true&show_icons=true&theme=nord&hide=stars)
 
