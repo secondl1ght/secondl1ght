@@ -23,6 +23,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secondl1ght&count_private=true&show_icons=true&theme=nord&hide=stars)
 
+![](https://github-profile-trophy.vercel.app/?username=secondl1ght&theme=nord&margin-w=15&margin-h=15&column=3&title=Followers,Commit,Repositories,Issues,PullRequest,Followers,MultiLanguage)
+
+Favorite Tech Stack
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,7 +34,7 @@
 <code><img height="40" src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
