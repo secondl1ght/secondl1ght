@@ -12,7 +12,7 @@
 - ✨ Portfolio: [secondl1ght.site](https://secondl1ght.site)
 - Support:
   - ⚡ `secondl1ght@getalby.com`
-  - [coinos](https://coinos.io/secondl1ght) (🔗/⚡/🌊)
+  - [coinos](https://coinos.io/secondl1ght)
   - paynym [`+restlesstruth25f`](https://paynym.is/+restlesstruth25f)
   - Thank you! 🙌🏼
   - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
