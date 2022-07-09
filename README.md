@@ -3,16 +3,12 @@
 - 🌱 I’m a Web Developer and contributing to [coinos](https://coinos.io) / [Raretoshi](https://raretoshi.com), [Geyser](https://geyser.fund), [Alby](https://getalby.com) + other open source bitcoin projects
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
-  - [@secondl1ght:matrix.org](https://matrix.to/#/@secondl1ght:matrix.org) / [@secondl1ght:ltpvxihfljiko6swkaakpf6rd7lyo7mt64drimye5mroxerhzswqpqyd.onion](https://matrix.to/#/@secondl1ght:ltpvxihfljiko6swkaakpf6rd7lyo7mt64drimye5mroxerhzswqpqyd.onion)
+  - [@secondl1ght:matrix.org](https://matrix.to/#/@secondl1ght:matrix.org)
   - @secondl1ght#9164 on [discord](https://discord.com/login)
   - @secondl1ght on [telegram](https://t.me/secondl1ght)
   - by e-mail at secondl1ght@protonmail.com
   - twitter [@secondl1ght](https://twitter.com/secondl1ght)
   - mastodon <a rel="me" href="https://bitcoinhackers.org/@secondl1ght">@secondl1ght</a>
-  - [cups](https://github.com/Start9Labs/cups-messenger) `zb44x3fqt6ggciow5wxlivylllor4bitizuwegnxvvdp43qlg4zhk3ad.onion`
-  - [polywork](https://www.polywork.com/secondl1ght)
-  - [dev.to](https://dev.to/secondl1ght)
-  - [contra](https://contra.com/secondl1ght)
 - ✨ Portfolio: [secondl1ght.site](https://secondl1ght.site)
 - Support:
   - ⚡ `secondl1ght@getalby.com`
