@@ -10,6 +10,7 @@
   - twitter [@secondl1ght](https://twitter.com/secondl1ght)
   - mastodon <a rel="me" href="https://bitcoinhackers.org/@secondl1ght">@secondl1ght</a>
 - ✨ Portfolio: [secondl1ght.site](https://secondl1ght.site)
+- 💻 Blogging: [bolt.fun](https://makers.bolt.fun/profile/34/secondl1ght) | [DEV](https://dev.to/secondl1ght)
 - Support:
   - ⚡ `secondl1ght@getalby.com`
   - [coinos](https://coinos.io/secondl1ght)
