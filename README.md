@@ -21,8 +21,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secondl1ght&count_private=true&show_icons=true&theme=nord&hide=stars)
 
-![](https://github-profile-trophy.vercel.app/?username=secondl1ght&theme=nord&margin-w=15&margin-h=15&column=3&title=Followers,Commit,Repositories,Issues,PullRequest,Followers,MultiLanguage)
-
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
