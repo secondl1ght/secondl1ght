@@ -13,7 +13,7 @@
 - 💻 Blogging: [secondl1ght.site/blog](https://secondl1ght.site/blog) | [bolt.fun](https://makers.bolt.fun/profile/34/secondl1ght) | [DEV](https://dev.to/secondl1ght)
 - Support:
   - ⚡ `secondl1ght@getalby.com`
-  - [coinos](https://coinos.io/secondl1ght)
+  - [coinos](https://classic.coinos.io/secondl1ght)
   - paynym [`+restlesstruth25f`](https://paynym.is/+restlesstruth25f)
   - Thank you! 🙌🏼
   - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
