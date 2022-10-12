@@ -19,8 +19,6 @@
   - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
 - <code>DE22 DF78 1024 0A80 75A3 56DA 3E7C 74A3 5CBC 05C5</code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secondl1ght&count_private=true&show_icons=true&theme=nord&hide=stars)
-
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
