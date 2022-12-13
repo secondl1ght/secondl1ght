@@ -17,7 +17,7 @@
   - paynym [`+restlesstruth25f`](https://paynym.is/+restlesstruth25f)
   - Thank you! 🙌🏼
   - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
-- <code>DE22 DF78 1024 0A80 75A3 56DA 3E7C 74A3 5CBC 05C5</code>
+- <code>PGP: DE22 DF78 1024 0A80 75A3 56DA 3E7C 74A3 5CBC 05C5</code>
 
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
