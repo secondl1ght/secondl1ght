@@ -7,8 +7,7 @@
   - @secondl1ght#9164 on [discord](https://discord.com/login)
   - @secondl1ght on [telegram](https://t.me/secondl1ght)
   - by e-mail at secondl1ght@protonmail.com
-  - twitter [@secondl1ght](https://twitter.com/secondl1ght)
-  - nostr `npub19g5rsrj8ylq8lzl3qphhwmu2fnqeg8rtcermmh6j387faccaskusxgd33w`
+  - x [@secondl1ght](https://twitter.com/secondl1ght)
 - ✨ Portfolio: [secondl1ght.site](https://secondl1ght.site)
 - 💻 Blogging: [secondl1ght.site/blog](https://secondl1ght.site/blog) | [bolt.fun](https://makers.bolt.fun/profile/34/secondl1ght) | [DEV](https://dev.to/secondl1ght)
 - Support:
