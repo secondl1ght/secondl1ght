@@ -1,6 +1,7 @@
 - 👋🏼 Hi, I’m @secondl1ght
 - 👀 I’m interested in bitcoin, privacy and individual freedom!
-- 🌱 I’m a Web Developer and creator of [Cipherchat](https://cipherchat.app), co-creator [BTC Map](https://btcmap.org), + contributing to other open source bitcoin projects. - Currently working at [Amboss](https://amboss.space/)
+- 👨‍💻 I’m a Web Developer and creator of [Cipherchat](https://cipherchat.app), co-creator [BTC Map](https://btcmap.org), + contributing to other open source bitcoin projects
+- 🔨 Currently working at [Amboss](https://amboss.space/)
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
   - [@secondl1ght:matrix.org](https://matrix.to/#/@secondl1ght:matrix.org)
@@ -16,7 +17,7 @@
   - paynym [`+restlesstruth25f`](https://paynym.is/+restlesstruth25f)
   - Thank you! 🙌🏼
   - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
-- <code>PGP: DE22 DF78 1024 0A80 75A3 56DA 3E7C 74A3 5CBC 05C5</code>
+- 🔑 <code>PGP: DE22 DF78 1024 0A80 75A3 56DA 3E7C 74A3 5CBC 05C5</code>
 
 <!---
 secondl1ght/secondl1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
