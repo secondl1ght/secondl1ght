@@ -1,7 +1,7 @@
 - 👋🏼 Hi, I’m @secondl1ght
 - 👀 I’m interested in bitcoin, privacy and individual freedom!
 - 👨‍💻 I’m a Web Developer and creator of [Cipherchat](https://cipherchat.app), co-creator [BTC Map](https://btcmap.org), + contributing to other open source bitcoin projects
-- 🔨 Currently working at [Amboss](https://amboss.space/)
+- 🔨 Currently working at [Amboss Technologies](https://amboss.tech/)
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
   - [@secondl1ght:matrix.org](https://matrix.to/#/@secondl1ght:matrix.org)
