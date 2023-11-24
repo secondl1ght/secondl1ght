@@ -4,11 +4,11 @@
 - 🔨 Currently working at [Amboss Technologies](https://amboss.tech/)
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
-  - [@secondl1ght:matrix.org](https://matrix.to/#/@secondl1ght:matrix.org)
-  - @secondl1ght#9164 on [discord](https://discord.com/login)
-  - @secondl1ght on [telegram](https://t.me/secondl1ght)
   - by e-mail at secondl1ght@protonmail.com
-  - x [@secondl1ght](https://twitter.com/secondl1ght)
+  - @secondl1ght on [telegram](https://t.me/secondl1ght)
+  - @secondl1ght#9164 on [discord](https://discord.com/login)
+  - [@secondl1ght:matrix.org](https://matrix.to/#/@secondl1ght:matrix.org)
+  - X [@secondl1ght](https://twitter.com/secondl1ght)
 - ✨ Portfolio: [secondl1ght.site](https://secondl1ght.site)
 - 💻 Blogging: [secondl1ght.site/blog](https://secondl1ght.site/blog) | [bolt.fun](https://makers.bolt.fun/profile/34/secondl1ght) | [DEV](https://dev.to/secondl1ght)
 - Support:
