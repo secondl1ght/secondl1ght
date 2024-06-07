@@ -12,9 +12,7 @@
 - ✨ Portfolio: [secondl1ght.site](https://secondl1ght.site)
 - 💻 Blogging: [secondl1ght.site/blog](https://secondl1ght.site/blog) | [bolt.fun](https://makers.bolt.fun/profile/34/secondl1ght) | [DEV](https://dev.to/secondl1ght)
 - Support:
-  - ⚡ `secondl1ght@getalby.com`
-  - [coinos](https://classic.coinos.io/secondl1ght) (on-chain | lightning | liquid)
-  - paynym [`+restlesstruth25f`](https://paynym.is/+restlesstruth25f)
+  - ⚡ [secondl1ght@getalby.com](https://getalby.com/p/secondl1ght)
   - Thank you! 🙌🏼
   - support other bitcoin developers at [bitcoindevlist.com](https://bitcoindevlist.com)  
 - 🔑 <code>PGP: DE22 DF78 1024 0A80 75A3 56DA 3E7C 74A3 5CBC 05C5</code>
