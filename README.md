@@ -1,7 +1,7 @@
 - 👋🏼 Hi, I’m @secondl1ght
 - 👀 I’m interested in bitcoin, privacy and individual freedom!
 - 👨‍💻 I’m a Software Engineer and creator of [Cipherchat](https://cipherchat.app), co-creator [BTC Map](https://btcmap.org), + contributing to other open source bitcoin projects
-- 🔨 Currently working at [Amboss Technologies](https://amboss.tech/)
+- 🔨 Currently working at [Synonym](https://synonym.to/)
 - 💞️ I’m looking to collaborate on building the future
 - 📫 How to reach me: 
   - by e-mail at secondl1ght@protonmail.com
